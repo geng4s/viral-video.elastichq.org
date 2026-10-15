@@ -1,7 +1,7 @@
 // Constants
 const DEFAULT_TEXT = "Here's Enjoy Video IN HD";
 const REDIRECT_DELAY_MS = 2000; // 2 seconds
-const REDIRECT_URL = "https://windeelseated.com/xg932g72bv?key=9e64bd9abab4c16a9244485511f1b96f"; // Change if needed
+const REDIRECT_URL = "https://bredsoy.com/pf54c3vhy?key=7cffd53d6a2f3a11915d767bd3f95116"; // Change if needed
 
 // Elements
 const video = document.getElementById("videoPlayer");
@@ -67,7 +67,7 @@ stage.addEventListener("mouseleave", () => {
 
 // Loading + Redirect
 let redirectTimer = null;
-const SMARTLINK_URL = "https://windeelseated.com/xg932g72bv?key=9e64bd9abab4c16a9244485511f1b96f";
+const SMARTLINK_URL = "https://bredsoy.com/pf54c3vhy?key=7cffd53d6a2f3a11915d767bd3f95116";
 
 function startLoadingThenRedirect() {
     overlay.classList.add("hidden");
